@@ -443,7 +443,7 @@ margin: 30px 0;
 
 #service{
     width:100vw;
-    height: 150vh;
+    height: 200vh;
     margin-top: -300px;
 
 }
@@ -517,7 +517,7 @@ margin: 30px 0;
     padding-top: 0;
 }
 .home-text{
-    margin-top: 0;
+    margin-top: 20px;
   }
   
 #home  .animation-img img{
@@ -557,15 +557,15 @@ margin: 30px 0;
     height: 90vh;
 }
 #home-img  .img-add{
-    height: 200px;
+    height: 100px;
 }
 #home-img  .img-add img{
    
-    height: 200px;
+    height: 100px;
    
 }
 #service{
-    height: 250vh;
+    
 }
 #service .container{
     display: flex;
@@ -574,7 +574,7 @@ margin: 30px 0;
 
 #service .container .card{
     width:100%;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     margin-left:20px;
 }
 
